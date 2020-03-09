@@ -1,16 +1,3 @@
-Enable desktop notifications for Santa Clara University Mail.
-   OK  No thanks
-
-11 of 61
-HW2 Problem 1 Kaldani 00001580471
-
-Andrew Kaldani <akaldani@scu.edu>
-Attachments
-Jan 22, 2020, 3:56 PM (13 days ago)
-to cs60scu
-
-
-3 Attachments
 
 #include "Rational.h"
 
